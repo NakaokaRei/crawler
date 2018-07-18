@@ -1,7 +1,7 @@
 # crawler
 image crawler
 
-#使い方
+# 使い方
 ターミナルで以下を実行する．
 
 ```
